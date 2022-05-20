@@ -39,4 +39,26 @@ const numberToLetter = {
   20: "t",
 };
 
+// const allCardsIds = [
+// "dance",
+// "doom",
+// "drown",
+// "escape",
+// "elder",
+// "garruk",
+// "grumgully",
+// "improbable",
+// "veteran",
+// "lochmere",
+// "pixie",
+// "oko",
+// "outlaws",
+// "scions",
+// "hunter",
+// "chaser",
+// "lance",
+// "crusader",
+// "commander"
+// ]
+
 export { generateRandomOrder };
