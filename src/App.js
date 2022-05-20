@@ -31,10 +31,29 @@ function App() {
   const [currentCards, setCurrentCards] = useState([]);
 
   useEffect(() => {
-    setMaxScore((prev) => (prev > currentScore - 1 ? prev : currentScore - 1));
+    const item = JSON.parse(localStorage.getItem("maxScore"));
+    if (item) {
+      setMaxScore(item["maxScore"]);
+    }
+  }, []);
+
+  useEffect(() => {
+    const item = JSON.parse(localStorage.getItem("maxScore"));
+    if (item) {
+      if (maxScore > item["maxScore"]) {
+        localStorage.setItem("maxScore", JSON.stringify({ maxScore }));
+      }
+    }
+    if (!item) {
+      localStorage.setItem("maxScore", JSON.stringify({ maxScore }));
+    }
+  }, [maxScore]);
+
+  useEffect(() => {
     if (checkIfRepeated(currentCards)) {
       setCurrentCards([]);
       setCurrentScore(0);
+      setMaxScore((prev) => (prev >= currentScore ? prev : currentScore - 1));
     }
   }, [currentCards]);
 
