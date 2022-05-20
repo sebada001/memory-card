@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.04fa0179.css",
+    "main.js": "/memory-card/static/js/main.c99842c7.js",
+    "static/js/787.d6a8b40f.chunk.js": "/memory-card/static/js/787.d6a8b40f.chunk.js",
+    "static/media/7_grumgully.png": "/memory-card/static/media/7_grumgully.57bb88c3b85cacdff909.png",
+    "static/media/5_elder.png": "/memory-card/static/media/5_elder.0dd58897eb1f0cc5d1bb.png",
+    "static/media/9_veteran.png": "/memory-card/static/media/9_veteran.b2ca28410b5c28a96808.png",
+    "static/media/12_oko.png": "/memory-card/static/media/12_oko.d05ee7985c5f653073c8.png",
+    "static/media/15_hunter.png": "/memory-card/static/media/15_hunter.9f0c94742fc1b6424da6.png",
+    "static/media/14_scions.png": "/memory-card/static/media/14_scions.669d9fb8c5d99d230fda.png",
+    "static/media/17_lance.png": "/memory-card/static/media/17_lance.f517ffe1b42392297625.png",
+    "static/media/8_improbable.png": "/memory-card/static/media/8_improbable.c9697684e0f402a4b951.png",
+    "static/media/6_garruk.png": "/memory-card/static/media/6_garruk.52211e87f36d1b816a5a.png",
+    "static/media/4_escape.png": "/memory-card/static/media/4_escape.555ad6ce43c68092e72d.png",
+    "static/media/18_crusader.png": "/memory-card/static/media/18_crusader.12349e3619b64850c21c.png",
+    "static/media/13_outlaws.png": "/memory-card/static/media/13_outlaws.e2020df915f5ae447bbf.png",
+    "static/media/19_wandermare.png": "/memory-card/static/media/19_wandermare.e7a50afe59acae7956a6.png",
+    "static/media/10_lochmere.png": "/memory-card/static/media/10_lochmere.610ee1842234af05e418.png",
+    "static/media/20_commander.png": "/memory-card/static/media/20_commander.381973a9f08d745168e6.png",
+    "static/media/1_dance_manse.png": "/memory-card/static/media/1_dance_manse.3664fb08d408a5d08127.png",
+    "static/media/2_doom.png": "/memory-card/static/media/2_doom.3f7305cd440f33caaa56.png",
+    "static/media/16_chaser.png": "/memory-card/static/media/16_chaser.4e07f07c22b9259c512b.png",
+    "static/media/3_drown.png": "/memory-card/static/media/3_drown.2aea070f2cb7b8bae3cd.png",
+    "static/media/11_pixie.png": "/memory-card/static/media/11_pixie.cf84809b1a2f62b48631.png",
+    "index.html": "/memory-card/index.html",
+    "main.04fa0179.css.map": "/memory-card/static/css/main.04fa0179.css.map",
+    "main.c99842c7.js.map": "/memory-card/static/js/main.c99842c7.js.map",
+    "787.d6a8b40f.chunk.js.map": "/memory-card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04fa0179.css",
+    "static/js/main.c99842c7.js"
+  ]
+}
